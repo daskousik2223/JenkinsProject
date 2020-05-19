@@ -6,7 +6,7 @@ public class HelloWorldTest {
 
 	@Test
 	public final void testMain() {
-		fail("Not yet implemented"); // TODO
+		fail("Not yet implemented");
 	}
 
 }
